@@ -24,6 +24,10 @@ Before you begin, make sure your local machine has:
 - **GPU with 12+ GB VRAM** (optional but strongly recommended for fast inference) – if no GPU, the app will fall back to CPU (very slow for 26B model)
 
 > **Note:** The 26B A4B model is large but uses Mixture‑of‑Experts to reduce compute. On a T4 GPU (free on Colab) inference takes ~2‑5 seconds per statement page. On CPU, expect 30‑60 seconds per page.
+> DeMO 
+
+https://github.com/user-attachments/assets/fdfd8ae8-4b81-41a2-8911-0e8805320ca6
+
 
 ---
 
